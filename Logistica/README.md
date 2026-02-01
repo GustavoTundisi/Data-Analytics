@@ -1,4 +1,4 @@
-# 🚚 Monitoramento de Supply Chain e Otimização Logística
+# 🚚 Monitoramento e Otimização Logística
 
 
 
