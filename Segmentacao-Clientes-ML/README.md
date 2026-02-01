@@ -1,4 +1,4 @@
-# 🧠 Segmentação Inteligente de Clientes com Machine Learning
+# 🧠 Segmentação de Clientes com Machine Learning
 
 ![Capa do Projeto](images/print_principal.png)
 
