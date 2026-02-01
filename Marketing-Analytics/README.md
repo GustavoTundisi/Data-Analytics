@@ -23,4 +23,4 @@ Consolidar dados de múltiplas fontes de campanhas para criar uma visão unifica
 2.  Identificação clara do Custo por Aquisição (CPA) ideal para cada produto.
 
 ---
-*Este projeto demonstra habilidades de Data Storytelling e análise financeira aplicada ao Marketing.*
+*Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy, com adaptações focadas em resolução de problemas de negócio.*
