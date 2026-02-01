@@ -1,7 +1,6 @@
 # 🧠 Segmentação Inteligente de Clientes com Machine Learning
 
 ![Capa do Projeto](images/print_principal.png)
-*(Dica: Substitua o caminho acima pelo print principal do seu dashboard)*
 
 ## 💼 O Problema de Negócio
 A abordagem de marketing da empresa era genérica ("spray and pray"). O objetivo era identificar grupos de clientes com comportamentos de compra similares para criar estratégias de personalização e retenção, visando aumentar o LTV (Lifetime Value).
@@ -25,4 +24,4 @@ Implementar um algoritmo de Clusterização (K-Means) integrado ao Power BI para
 * **Cluster 3 (Novos/Baixo Valor):** Clientes esporádicos. Ação sugerida: Ofertas de entrada.
 
 ---
-*Este projeto destaca a capacidade de integração entre ferramentas de BI e Linguagens de Programação para Data Science.*
+*Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy, com adaptações focadas em resolução de problemas de negócio.*
