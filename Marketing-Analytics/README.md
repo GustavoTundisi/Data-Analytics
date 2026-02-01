@@ -1,7 +1,6 @@
 # 📢 Análise de Performance de Campanhas e ROI
 
 ![Capa do Projeto](images/print_principal.png)
-*(Dica: Substitua o caminho acima pelo print principal do seu dashboard)*
 
 ## 💼 O Problema de Negócio
 O time de marketing precisava otimizar o orçamento (budget), mas não tinha clareza sobre qual canal de aquisição trazia o maior retorno sobre investimento e qual perfil de cliente convertia mais. Os relatórios anteriores eram estáticos e dificultavam a tomada de decisão rápida.
