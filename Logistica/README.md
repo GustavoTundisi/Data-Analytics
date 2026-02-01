@@ -1,9 +1,6 @@
 # 🚚 Monitoramento e Otimização Logística
 
-
-
 ![Capa do Projeto](images/print\_principal.png)
-
 
 ## 💼 O Problema de Negócio
 
