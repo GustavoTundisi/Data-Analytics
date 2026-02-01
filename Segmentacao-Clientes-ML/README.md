@@ -1,0 +1,28 @@
+# 🧠 Segmentação Inteligente de Clientes com Machine Learning
+
+![Capa do Projeto](images/print_principal.png)
+*(Dica: Substitua o caminho acima pelo print principal do seu dashboard)*
+
+## 💼 O Problema de Negócio
+A abordagem de marketing da empresa era genérica ("spray and pray"). O objetivo era identificar grupos de clientes com comportamentos de compra similares para criar estratégias de personalização e retenção, visando aumentar o LTV (Lifetime Value).
+
+## 🎯 Objetivo
+Implementar um algoritmo de Clusterização (K-Means) integrado ao Power BI para agrupar clientes matematicamente, eliminando a segmentação baseada apenas em "achismos".
+
+## 🛠️ Tecnologias Utilizadas
+* **Power BI:** Interface para o usuário final.
+* **Python/R:** Script de execução do algoritmo de Machine Learning (K-Means).
+* **Estatística:** Aplicação de análise RFM (Recência, Frequência, Monetário).
+
+## ⚙️ Como Funciona
+1.  O Power BI envia os dados brutos para o script Python/R.
+2.  O algoritmo processa as variáveis e define a qual "Cluster" (grupo) cada cliente pertence.
+3.  Os dados retornam ao Power BI já classificados para visualização.
+
+## 🚀 Resultados e Insights
+* **Cluster 1 (VIPs):** Clientes com alta frequência e alto ticket médio. Ação sugerida: Programas de fidelidade.
+* **Cluster 2 (Em Risco):** Clientes que compravam muito, mas pararam (Recência alta). Ação sugerida: Campanhas de reativação.
+* **Cluster 3 (Novos/Baixo Valor):** Clientes esporádicos. Ação sugerida: Ofertas de entrada.
+
+---
+*Este projeto destaca a capacidade de integração entre ferramentas de BI e Linguagens de Programação para Data Science.*
