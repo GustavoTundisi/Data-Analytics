@@ -10,7 +10,7 @@ Implementar um algoritmo de Clusterização (K-Means) integrado ao Power BI para
 
 ## 🛠️ Tecnologias Utilizadas
 * **Power BI:** Interface para o usuário final.
-* **Python/R:** Script de execução do algoritmo de Machine Learning (K-Means).
+* **Python:** Script de execução do algoritmo de Machine Learning (K-Means).
 * **Estatística:** Aplicação de análise RFM (Recência, Frequência, Monetário).
 
 ## ⚙️ Como Funciona
