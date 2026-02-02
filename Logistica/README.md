@@ -37,4 +37,4 @@ Desenvolver um painel gerencial para monitorar o status das entregas e a perform
 
 ---
 
-*Este projeto foi desenvolvido como parte de um portfólio de Data Analytics, focado na resolução de problemas reais de logística.*
+*Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy, focado na resolução de problemas reais de logística.*
