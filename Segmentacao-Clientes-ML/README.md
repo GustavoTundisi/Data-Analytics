@@ -14,7 +14,7 @@ Implementar um algoritmo de Clusterização (K-Means) integrado ao Power BI para
 * **Estatística:** Aplicação de análise RFM (Recência, Frequência, Monetário).
 
 ## ⚙️ Como Funciona
-1.  O Power BI envia os dados brutos para o script Python/R.
+1.  O Power BI envia os dados brutos para o script Python.
 2.  O algoritmo processa as variáveis e define a qual "Cluster" (grupo) cada cliente pertence.
 3.  Os dados retornam ao Power BI já classificados para visualização.
 
