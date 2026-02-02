@@ -47,4 +47,4 @@ O projeto foi dividido em 4 visões estratégicas para responder perguntas difer
 4.  **Omnicanalidade:** Apesar do foco digital, as Lojas Físicas (12 Mil compras) ainda superam a Web (8 Mil), indicando que a estratégia não pode ser puramente online.
 
 ---
-*Este projeto foi desenvolvido como parte de um portfólio de Data Analytics, focado em Customer Intelligence e Estratégia Comercial.*
+*Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy*
