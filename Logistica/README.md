@@ -1,43 +1,40 @@
-# 🚚 Monitoramento e Otimização Logística
+# 🚚 Monitoramento de Performance de Entregas
 
-![Capa do Projeto](images/print\_principal.png)
+![Capa do Projeto](images/print_principal.png)
 
 ## 💼 O Problema de Negócio
 
-A empresa enfrentava dificuldades em rastrear a eficiência de suas entregas e identificar a causa raiz das devoluções e atrasos. A falta de visibilidade impactava a satisfação do cliente (SLA) e aumentava custos operacionais com reentregas.
+A empresa gerenciava um alto volume de operações (54 mil entregas) mas carecia de visibilidade sobre a pontualidade por região e canal. A dificuldade em identificar gargalos específicos (cidades ou vendedores com baixo desempenho) impedia a tomada de decisão ágil para reduzir os atrasos e melhorar o nível de serviço.
 
 ## 🎯 Objetivo
 
-Desenvolver um painel analítico centralizado para monitorar o ciclo de vida do pedido, desde a expedição até a entrega final, permitindo uma visão clara dos gargalos logísticos.
+Desenvolver um painel gerencial para monitorar o status das entregas e a performance das equipes, permitindo uma visão detalhada dos ofensores de prazo e a eficiência da distribuição logística.
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **Power BI:** Visualização e interatividade.
 * **Power Query:** Limpeza e transformação de dados (ETL).
-* **DAX:** Cálculos complexos para médias de atraso e variação temporal.
+* **DAX:** Cálculos para categorização de status (Antecipado/Atrasado) e contagens agregadas.
 * **Modelagem de Dados:** Esquema Star Schema (Fato/Dimensão).
 
-## 📊 Principais KPIs e Metricas
+## 📊 Principais KPIs e Métricas
 
-* **OTIF (On-Time In-Full):** Percentual de pedidos entregues no prazo e completos.
+* **Volume Total de Entregas:** Monitoramento da carga total e sazonalidade mensal.
 
-* **SLA de Entrega:** Comparativo entre prazo prometido vs. realizado.
+* **Entregas no Prazo:** Total absoluto de entregas que cumpriram o acordo de nível de serviço (47 Mil).
 
-* **Taxa de Devolução:** Volume de retornos por motivo e por transportadora.
+* **Status de Entrega:** Breakdown percentual entre Antecipado (70%), No Prazo e Atrasado.
 
-
+* **Performance por Canal/Equipe:** Comparativo de volume entregue por canais de venda e regiões geográficas.
 
 ## 🚀 Resultados e Insights
 
-1.  Identificação visual imediata das rotas com maior índice de avarias.
+1.  **Otimização de SLA:** Identificou-se que **70,7%** das entregas são antecipadas, indicando oportunidade para ajustar a promessa de prazo ao cliente e tornar o frete mais competitivo.
 
-2.  Descoberta de sazonalidade nos atrasos (ex: picos em datas específicas).
+2.  **Foco em Gargalos:** Mapeamento de cidades críticas (ex: Cidade 79 com maior volume absoluto de atrasos) para atuação direta da gestão.
 
-3.  Base de dados consolidada para renegociação de contratos com transportadoras de baixa performance.
-
-
+3.  **Análise Sazonal:** Visualização clara da variação de volume no mês de setembro, permitindo investigação de causas operacionais.
 
 ---
 
-*Este projeto foi desenvolvido como parte do curso de Power BI da Data Science Academy, com adaptações focadas em resolução de problemas de negócio.*
-
+*Este projeto foi desenvolvido como parte de um portfólio de Data Analytics, focado na resolução de problemas reais de logística.*
