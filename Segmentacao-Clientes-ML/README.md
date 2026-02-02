@@ -35,4 +35,4 @@ A análise identificou 3 perfis distintos de comportamento:
     * **Insight:** Possuem o menor Score de Gastos (43). Provavelmente estão na fase de acumulação de patrimônio. A estratégia deve ser focada em branding e fidelização de longo prazo.
 
 ---
-*Este projeto foi desenvolvido como parte de um portfólio de Data Analytics, demonstrando proficiência tanto em Python (Back-end da análise) quanto em Power BI (Front-end de negócios).*
+*Este projeto foi desenvolvido como parte de um portfólio de Data Analytics, demonstrando proficiência tanto em Python quanto em Power BI.*
