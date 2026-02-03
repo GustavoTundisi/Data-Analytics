@@ -1,0 +1,38 @@
+# 🧠 Customer Segmentation with Machine Learning
+
+![Project Cover](images/print_principal.png)
+
+## 💼 The Business Problem
+The marketing team faced difficulties in personalizing offers because they could not distinguish clear consumption patterns just by looking at income or age in isolation. It was necessary to understand the relationship between purchasing power, age, and spending propensity (score).
+
+## 🎯 Objective
+Use Machine Learning algorithms to group the customer base into mathematically similar clusters, allowing the creation of "Personas" based on real data to direct more assertive campaigns.
+
+## 🛠️ Technologies Used
+* **Python (Jupyter Notebook):** Development environment for exploratory analysis and modeling.
+* **Libraries:** Pandas (data manipulation), Scikit-Learn (K-Means algorithm), and Matplotlib (initial visualization).
+* **Power BI:** Business Intelligence tool for building the final dashboard, storytelling, and design.
+
+## ⚙️ Development Process
+1.  **Modeling in Jupyter:** I cleaned the data and applied the K-Means algorithm in Jupyter Notebook to identify mathematical patterns and define the ideal clusters.
+2.  **Integration:** The processed data, already classified with their respective "Segments", was exported and connected to Power BI.
+3.  **Final Visualization:** In Power BI, I focused on formatting, creating dynamic metrics, and visual design to facilitate executive reading of insights.
+
+## 🚀 Results and Insights
+
+The analysis identified 3 distinct behavior profiles:
+
+1.  **Segment 1 - "The Spender Middle Class" (Main Focus):**
+    * **Profile:** Lower Annual Income (average 52k) and advanced age (~54 years).
+    * **Insight:** Surprisingly, they have the highest Spending Score (54). It is the audience that consumes the most proportionally to income. Ideal for retail and volume promotions.
+
+2.  **Segment 0 - "The Conservative Elite":**
+    * **Profile:** Very high Annual Income (average 120k) and advanced age (~53 years).
+    * **Insight:** Despite having a higher income, they spend moderately (Score 47). They demand exclusive or investment products, not responding well to "discount" appeals.
+
+3.  **Segment 2 - "The Young Savers":**
+    * **Profile:** The youngest group (average 27 years) with medium-high income (82k).
+    * **Insight:** They have the lowest Spending Score (43). They are probably in the wealth accumulation phase. The strategy should focus on branding and long-term loyalty.
+
+---
+*This project was developed as part of the Data Science Academy Power BI course.*
